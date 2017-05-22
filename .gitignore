@@ -2,3 +2,5 @@ network/*
 .DS_Store
 
 *.pyc
+
+.idea/*
